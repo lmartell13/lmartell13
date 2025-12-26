@@ -1,5 +1,4 @@
 # Hi there! I'm Luis Martell 👋
-** QA Engineer 
 
 I am a Computer Science Engineer based in El Salvador, focused on ensuring software quality through rigorous testing and process efficiency.
 Currently, I am expanding my technical stack into **QA Automation** with a primary focus on Playwright and TypeScript.
