@@ -10,7 +10,7 @@ Currently, I am expanding my technical stack into **QA Automation** with a prima
 - 🌐 English Proficiency: **C1 Level**.
 
 ### 🧪 QA Stack & Skills
-- **Testing:** Test case design, API testing (Postman), Regression, UAT, Exploratory, and Security Testing.
+- **Testing:** Test case design, TestRail, Zephyr, Xray, API testing using Postman, Smoke testing, Sanity Testing, Regression testing, UAT, Exploratory testing, System & Integration Testing, Security Testing, Usability Testing.
 - **Automation (Learning):** Playwright with TypeScript and Selenium WebDriver with Python.
 - **Tools:** Jira, Azure DevOps, TestRail, Zephyr, and Xray.
 - **Databases:** MySQL, Microsoft SQL Server, and Oracle.
